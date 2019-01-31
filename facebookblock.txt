@@ -808,3 +808,4 @@ fb.com
 newsroom.fb.com
 investor.fb.com
 pixel.facebook.com
+graph.instagram.com
